@@ -1,2 +1,2 @@
 # phpcrud_pdo
-Simple CRUD using php PDO
+CRUD Application with PHP, PDO, and MySQL
